@@ -1,9 +1,16 @@
 {
+  "scripts": {
+    "dev": "parcel ./*.html",
+    "build": "parcel build ./*.html"
+  },
   "dependencies": {
     "lodash": "^4.17.15"
   },
   "devDependencies": {
+    "autoprefixer": "^9.6.1",
     "eslint": "^6.2.2",
+    "parcel-bundler": "^1.12.3",
+    "postcss-modules": "^1.4.1",
     "stylelint": "^10.1.0"
   }
 }
