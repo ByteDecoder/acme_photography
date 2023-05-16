@@ -16,3 +16,9 @@ After July 1, 2023, you'll be able to access your previously processed data in y
 
 In the coming months, we'll provide a future date for when existing Universal Analytics properties will no longer be available. After this future date, you'll no longer be able to see your Universal Analytics reports in the Analytics interface or access your Universal Analytics data via the API.
 
+## Sumarized links
+
+https://support.google.com/analytics/answer/11583528?hl=en
+https://www.youtube.com/watch?v=Rhpr0KxLFb4&t=10s
+https://support.google.com/analytics/answer/10759417
+https://support.google.com/analytics/answer/13392826
