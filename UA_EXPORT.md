@@ -18,16 +18,11 @@ In the coming months, we'll provide a future date for when existing Universal An
 
 ## Sumarized links
 
+<https://www.youtube.com/watch?v=G7ot3zfNYNQ>
 https://support.google.com/analytics/answer/11583528?hl=en
 https://www.youtube.com/watch?v=Rhpr0KxLFb4&t=10s
 https://support.google.com/analytics/answer/10759417
 https://support.google.com/analytics/answer/13392826
-
-<https://www.youtube.com/watch?v=G7ot3zfNYNQ>
-<https://support.google.com/analytics/answer/11583528?hl=en>
-<https://www.youtube.com/watch?v=Rhpr0KxLFb4&t=10s>
-<https://support.google.com/analytics/answer/10759417>
-<https://support.google.com/analytics/answer/13392826>
 
 GTAG => basic stuff
 GTM - corina uses this (more technical, more deeper into the data)
