@@ -24,8 +24,9 @@ https://www.youtube.com/watch?v=Rhpr0KxLFb4&t=10s
 https://support.google.com/analytics/answer/10759417
 https://support.google.com/analytics/answer/13392826
 
-GTAG => basic stuff
-GTM - corina uses this (more technical, more deeper into the data)
+Google Analytics Tools
+GTAG => basic stuff (we use this to track pages in our websites)
+GTM - corina uses this (more technical, dig deeper into the data)
 
 ## Chrome Extensions
 
