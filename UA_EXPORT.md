@@ -22,3 +22,8 @@ https://support.google.com/analytics/answer/11583528?hl=en
 https://www.youtube.com/watch?v=Rhpr0KxLFb4&t=10s
 https://support.google.com/analytics/answer/10759417
 https://support.google.com/analytics/answer/13392826
+
+
+## Chrome Extensions
+
+Google Tag Assisstant Legacy
